@@ -1,4 +1,4 @@
-**A Comprehensive Guide to Bash Scripting**
+#**A Comprehensive Guide to Bash Scripting**
 
 ## **Introduction to Bash**
 Bash (Bourne Again SHell) is a Unix shell and command language written as a free software replacement for the Bourne shell (sh). It was developed by Brian Fox for the GNU Project and released in 1989. Bash is the default shell on most Linux distributions and macOS, making it one of the most widely used shells for scripting and command-line tasks.
