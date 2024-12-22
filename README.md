@@ -205,4 +205,3 @@ cp file.txt /backup/ || echo "Copy failed!"
 ## **Conclusion**
 Bash scripting is a powerful tool for automating tasks, managing systems, and processing data in Unix-like environments. By mastering Bash, users can significantly enhance productivity and gain greater control over their systems.
 
-sh-scripting
